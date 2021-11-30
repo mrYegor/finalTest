@@ -22,5 +22,5 @@
    - createTeam();
    - setSalary();
    - создание цикла для установки метода tellAboutYourSelf();
-   - *создание team.showTeam = function() {...};
-   - *вызов метода showTeam();
+   - создание team.showTeam = function() {...};
+   - вызов метода showTeam();
